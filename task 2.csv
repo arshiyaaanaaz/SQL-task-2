@@ -1,0 +1,51 @@
+"student_id","name","age","gender","course","batch_time"
+1,"aly",20,"female","DATA ANALYSIS",8
+2,"aly",20,"female","DATA ANALYSIS",8
+3,"mark",23,"male","DATA SCIENCES",7
+4,"aly",20,"female","DATA ANALYSIS",8
+5,"mark",23,"male","DATA SCIENCES",7
+6,"Den",24,"male","WEB DEVELOPMENT",9
+7,"Rosy",19,"female","DATA SCIENCES",7
+8,"honey",22,"female","DATA ANALYSIS",8
+9,"Rony",23,"male","WEB DEVELOPMENT",9
+10,"Noman",25,"male","DATA SCIENCES",7
+11,"July",21,"female","DATA ANALYSIS",8
+12,"Luna",24,"female","DATA SCIENCES",7
+13,"Emily",23,"female","WEB DEVELOPMENT",9
+14,"luke",30,"male","WEB DEVELOPMENT",9
+15,"Ruby",25,"female","DATA ANALYSIS",8
+16,"Bella",18,"female","DS",7
+17,"camilla",22,"female","DA",8
+18,"adam",22,"male","DS",7
+19,"heryy",19,"male","DS",7
+20,"money",25,"male","WD",9
+21,"eva",23,"female","DA",8
+22,"justin",26,"male","WD",9
+23,"david",20,"male","DS",7
+24,"lily",21,"female","DATA ANALYSIS",8
+25,"john",22,"male","DATA ANALYSIS",8
+26,"jack",30,"male","DATA ANALYSIS",8
+27,"Ben",20,"male","DATA ANALYSIS",8
+28,"Anna",23,"female","DATA ANALYSIS",8
+29,"Henry",24,"male","WEB DEVELOPMENT",9
+30,"bella",25,"female","WEB DEVELOPMENT",9
+31,"zoya",24,"male","WEB DEVELOPMENT",9
+32,"mith",33,"male","DATA ANALYSIS",8
+33,"smith",23,"male","DATA SCIENCES",7
+34,"liba",18,"female","DATA SCIENCES",7
+35,"mona",19,"female","DATA SCIENCES",7
+36,"zoe",22,"female","DATA ANALYSIS",8
+37,"trunk",21,"male","DATA SCIENCES",7
+38,"rumi",26,"male","WEB DEVLOPMENT",9
+39,"Asra",23,"female","DATA SCIENCES",7
+40,"Zam",27,"male","DATA ANALYSIS",8
+41,"Luv",22,"male","WEB DEVLOPMENT",9
+42,"Anna",22,"female","DATA SCIENCES",7
+43,"Emma",25,"female","DATA ANALYSIS",8
+44,"Yizzy",23,"female","DATA SCIENCES",7
+45,"Sam",20,"female","WEB DEVLOPMENT",9
+46,"Qais",22,"female","WEB DEVLOPMENT",9
+47,"Luv",22,"male","WEB DEVLOPMENT",9
+48,"misr",26,"male","WEB DEVLOPMENT",9
+49,"ima",22,"female","WEB DEVLOPMENT",9
+50,"Kim",22,"male","DATA ANALYSIS",8
